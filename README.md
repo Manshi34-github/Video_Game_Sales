@@ -9,8 +9,8 @@ To analyze and visualize global video game sales data to identify patterns, top-
 ## Tools Used
 
 - **Tableau** (for interactive visualizations)
-- **Python
-- **Excel
+- Python
+- Excel
 - **Dataset Source**: Kaggle  
   [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
 
